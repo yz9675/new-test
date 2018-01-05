@@ -1,3 +1,3 @@
 print('dsada')
-print ('D:\project\ml-venv\new-test\01.py')
+print ('D:\project\menv\new-test\01.py')
 print('dsada')
