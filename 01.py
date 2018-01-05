@@ -1,2 +1,1 @@
 print('dsada')
-print('new')
